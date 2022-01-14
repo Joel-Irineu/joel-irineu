@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Irineu&layout=compact&langs_count=7&theme=dracula&title_color=29abe2&locale=pt-br"/>
 </div>
 
-## Minhas tecnologias
+<!-- ## Minhas tecnologias -->
 <div style="display: inline_block"><br>
   <img align="center" alt="irineu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="irineu-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
