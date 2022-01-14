@@ -26,6 +26,8 @@
   <a href="https://www.linkedin.com/in/j-irineuwd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://open.spotify.com/user/vbr88n87tacuh4g5uaur5f4lj" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/rafaballerini/joel-irineu/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 <!--
 **Joel-Irineu/joel-irineu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
