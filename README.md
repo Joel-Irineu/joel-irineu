@@ -1,4 +1,10 @@
-### Hi there 👋
+# Olá, sou o J. Irineu 👋
+
+<div align="center">
+  <a href="https://github.com/joel-irineu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joel-Irineu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=29abe2&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Irineu&layout=compact&langs_count=7&theme=dracula&title_color=29abe2&locale=pt-br"/>
+</div>
 
 <!--
 **Joel-Irineu/joel-irineu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
