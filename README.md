@@ -21,7 +21,7 @@
   
   <img align="center" alt="irineu-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/0a/2b/6a/0a2b6a6819f65523517ea6807d6cf72f.gif">
+  <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/0a/2b/6a/0a2b6a6819f65523517ea6807d6cf72f.gif"> -->
 </div>
   
   ##
