@@ -22,11 +22,6 @@ Sou apaixonado por tecnologia e programação. Atualmente, estou focado em apren
   <img align="center" alt="irineu-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 </div>
 
-## 🌟 Projetos em Destaque
-
-- [Projeto 1](https://github.com/joel-irineu/projeto1): Descrição do projeto.
-- [Projeto 2](https://github.com/joel-irineu/projeto2): Descrição do projeto.
-
 ## 📫 Contato
 
 <div> 
